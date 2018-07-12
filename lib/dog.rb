@@ -1,10 +1,11 @@
 Class Dog
 def initialize ("bark", "sit")
 
-@bark = bark
+ @bark = bark
 puts "Woof"
 @sit = sit
 puts "The dog is stting"
 end 
+end
 
 
